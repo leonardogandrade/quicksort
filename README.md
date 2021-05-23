@@ -5,5 +5,7 @@
 ## Radom
 ## Median
 ## Mean
-### You'll find to different ways to partion arrays the [Lomuto and Hoare](https://en.wikipedia.org/wiki/Quicksort) scheme.
-## You can just clone this repository and run the main.py class to plot the comparison between the related aproaches above.
+> You'll find to different ways to partion arrays the [Lomuto and Hoare](https://en.wikipedia.org/wiki/Quicksort) scheme.
+> You can just clone this repository and run the main.py class to plot the comparison between the related aproaches above.
+
+![GitHub Logo](https://github.com/leonardogandrade/quicksort/blob/master/resources/comparison.png)
