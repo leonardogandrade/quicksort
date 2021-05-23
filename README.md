@@ -1,7 +1,7 @@
 # QUICKSORT
 
-#### This is part of my master's on class Analyses and Project of Algorithms where it was required an implementation about the very famous algorithm Quicksort
-#### Here you can find out some different aproaches about how to get the pivor element
+#### This is part of my master's on class Analyses and Project of Algorithms where it was required an implementation about the very famous algorithm Quicksort.
+#### Here you can find out some different aproaches about how to get the pivot element.
 ## Radom
 > Using a uniform distribution to find out the pivot.
 ## Median
