@@ -6,11 +6,17 @@
 > Using a uniform distribution to find out the pivot.
 ## Median
 > Determined by three elemnts:
-```the low boundary(lb), high boundary(hb), (lb + hb // 2)```
 
-> Here was used the median value which was riched using the formula below:
+```
+the low boundary(lb), high boundary(hb), (lb + hb // 2)
+```
+
 ## Mean
-```the low boundary(lb) + high boundary(hb) + (lb + hb // 2) // 3```
+> Here was used the mean value which was riched using the formula below:
+
+```
+the low boundary(lb) + high boundary(hb) + (lb + hb // 2) // 3
+```
 
 ## How to use 
 > You'll find to different ways to partion arrays the [Lomuto and Hoare](https://en.wikipedia.org/wiki/Quicksort) scheme.
