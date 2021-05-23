@@ -1,8 +1,11 @@
 import random
+import os
 import sys
+from pathlib import Path
 import time
 import matplotlib.pyplot as plt
 from sorting_algorithms import Sorting
+Path("./plots").mkdir(parents=True, exist_ok=True)
 
 sys.setrecursionlimit(50000)
 
