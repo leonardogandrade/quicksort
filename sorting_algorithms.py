@@ -87,7 +87,7 @@ class Sorting:
 
         if pivot_mode == 'find_pivot':
             if lb < hb:
-                pivot = Sorting.partition_hoare(A, lb, hb)
+                pivot = Sorting.partition_lomuto(A, lb, hb)
                 Sorting.quick_sort(A, lb, pivot - 1, pivot_mode)
                 Sorting.quick_sort(A, pivot + 1, hb, pivot_mode)
 
